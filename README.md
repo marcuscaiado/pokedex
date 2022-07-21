@@ -1,2 +1,2 @@
 # pokedex
-The FIrst Pokedex
+The Pokedex
